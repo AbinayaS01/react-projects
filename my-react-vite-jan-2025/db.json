@@ -24,7 +24,10 @@
   ],
   "users": [
     {
+      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
       "id": "1",
+      "password":"111",
+      "role":"ADMIN",
       "name": "Leanne Graham",
       "username": "Bret",
       "email": "Sincere@april.biz",
@@ -47,7 +50,10 @@
       }
     },
     {
+      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
       "id": "2",
+      "password":"222",
+      "role":"CUSTOMER",
       "name": "Ervin Howell",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
@@ -70,7 +76,10 @@
       }
     },
     {
+      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
       "id": "3",
+      "password":"333",
+      "role":"CUSTOMER",
       "name": "Clementine Bauch",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
